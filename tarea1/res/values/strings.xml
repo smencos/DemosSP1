@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_country_detail">Tarea 1 SM Mall</string>
+    <string name="tienda_1">Tienda Lego</string>
+    <string name="tienda_2">Tienda Videojuegos</string>
+    <string name="tienda_3">Tienda Computadoras</string>
+    <string name="tienda_4">Tienda Casa</string>
+    <string name="tienda_5">Tienda Carro</string>
+    <string name="tienda_6">Tienda Escritorios</string>
+    <string name="tienda_7">Tienda Mesas</string>
+    
+
+</resources>
